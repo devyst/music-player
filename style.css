@@ -230,5 +230,7 @@ body {
     .footer-heart {
         transform: translateX(-50%);
         text-align: center;
+        left: 50%;
+        width: 100%;
     }
 }
