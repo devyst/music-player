@@ -202,10 +202,10 @@ body {
         bottom: 8rem;
     }
     .music-player-container {
-        width: 400px;
+        width: 85%;
         left: 50%;
         transform: translateX(-50%);
-        bottom: 21rem;
+        bottom: 50%;
     }
 
     .track-name {
